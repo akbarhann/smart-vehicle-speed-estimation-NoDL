@@ -29,6 +29,12 @@ Utilizing classical Computer Vision techniques for efficient, real-time performa
 
 ---
 
+## IMAGES
+![bird_view_100](https://github.com/user-attachments/assets/55a9d2ea-4e1f-48a4-83f6-b9245a93a6dc)
+![Screenshot 2025-06-11 101116](https://github.com/user-attachments/assets/3e44de87-e859-4233-9a52-3e7bdfb228a5)
+
+---
+
 ## ⚙️ How to Use
 
 1. Ensure you have the ROI calibration file (`saved_roi1.npy`) ready (from manual annotation).  
