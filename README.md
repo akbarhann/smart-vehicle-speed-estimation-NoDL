@@ -41,5 +41,5 @@ Utilizing classical Computer Vision techniques for efficient, real-time performa
 2. Run the main script:
 
 ```bash
-python ishospeed.py
+python birdeyes.py
 
