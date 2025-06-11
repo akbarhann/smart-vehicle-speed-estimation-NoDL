@@ -185,7 +185,7 @@ while True:
 
     offset = 10  # lebih toleran
     pixel_distance = np.linalg.norm(((entry_pt1 + entry_pt2) / 2) - ((exit_pt1 + exit_pt2) / 2))
-    real_world = 27.43
+    real_world = 19.0
     PIXEL_TO_METER = real_world / pixel_distance
 
     for objectID, (cx, cy) in objects.items():
